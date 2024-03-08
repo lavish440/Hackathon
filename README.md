@@ -21,6 +21,12 @@ _Problem: 56_
 
 ## Members
 
-1. _Lavish_
-1. _Mayank Pandey_
-1. _Parv Aggarwal_
+1. _Lavish_ - 12302815
+1. _Mayank Pandey_ - 12306009
+1. _Parv Aggarwal_ - 12310700
+
+# Screenshots
+![GUI 1](/screenshots/gui_1.png)
+![Main Menu](/screenshots/main.png)
+![Sub-item](/screenshots/ports.png)
+![Sub-item2](/screenshots/ssh.png)
