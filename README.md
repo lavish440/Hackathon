@@ -27,6 +27,7 @@ _Problem: 56_
 
 # Screenshots
 ![GUI 1](/screenshots/gui_1.png)
+![GUI 2](/screenshots/gui_2.png)
 ![Main Menu](/screenshots/main.png)
 ![Sub-item](/screenshots/ports.png)
 ![Sub-item2](/screenshots/ssh.png)
